@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="topmargin">100dp</dimen>
+    <dimen name="margin_top">10sp</dimen>
+    <dimen name="marfin_left">30sp</dimen>
+    <dimen name="margin_right">30sp</dimen>
+    <dimen name="txt_size">20sp</dimen>
+</resources>
